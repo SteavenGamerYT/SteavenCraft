@@ -2,6 +2,12 @@
  SteavenCraft
 
 
+# Installtion
+
+
+Get 1.19.2 Optfine , Make new Profile, use this files as in new minecraft follder
+
+
 ReCreation of Minecraft using ResoresPacks
 
 
